@@ -117,7 +117,7 @@ Bu eser **Creative Commons Atıf-GayriTicari-TürevYapılamaz 4.0 Uluslararası 
 Suggested credit / Önerilen atıf: *"Calculus Visualiser © 2026 Dr. Halil Emre ÇAĞLAR, licensed under CC BY-NC-ND 4.0."*
 
 Third-party components such as KaTeX and Three.js are under their own (MIT) licences: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) / KaTeX ve Three.js gibi üçüncü taraf bileşenler kendi (MIT) lisanslarına tabidir.
-Permission requests and copyright notices / İzin talepleri ve telif bildirimleri: dcaglar.academic@gmail.com
+Permission requests and copyright notices / İzin talepleri ve telif bildirimleri: drcaglar.academic@gmail.com
 
 ## References and suggested reading / Kaynaklar ve önerilen okumalar
 
